@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Pose Perfect</string>
+    <string name="logo_name">Pose Perfect</string>
+    <string name="slogan_name">Perfect Your Pose, Perfect Your Life.</string>
+
+    <string name="bakasana">•Physical Benefits\n
+Strengthens core, arms, and shoulders: Building core stability is essential for maintaining balance in this pose.\n
+Improves balance and coordination: Regular practice enhances your ability to balance and coordinate your body movements.\n
+Increases flexibility: Stretches the hips, groin, and spine, promoting overall flexibility.\n
+Stimulates digestion: Massaging the abdominal organs can aid digestion.\n
+Opens the chest: Improves lung capacity and posture.\n\n
+•Mental Benefits\n
+Boosts confidence: Successfully performing Bakasana can significantly boost self-esteem.
+\nImproves focus and concentration: Maintaining balance requires intense mental focus.
+\nReduces stress and anxiety: The physical challenge and mental focus can help alleviate stress.</string>
+
+    <string name="pigeon">•Physical Benefits\n
+Improves hip flexibility: Targets tight hip flexors and glutes.\n
+Relieves lower back pain: Stretches the muscles around the spine.\n
+Increases range of motion: Improves mobility in the hips and pelvis.\n
+Aids digestion: Stimulates the abdominal organs.\n
+Improves posture: By lengthening the spine and core.\n\n
+•Mental Benefits\n
+Reduces stress and anxiety: Deep stretching can help relax the body and mind.\n
+Enhances focus and concentration: Holding the pose requires mental focus.</string>
+
+    <string name="dancer">•Physical Benefits\n
+Improves balance and coordination: Requires focused attention and body awareness.\n
+Strengthens legs, core, back, and arms: The standing leg bears the body weight, while the lifted leg and arms provide counterbalance.\n
+Enhances flexibility of the spine: Deepens the backbend, improving spinal mobility.\n
+Opens the chest and shoulders: Promotes deeper breathing and better posture.\n
+Stimulates abdominal organs: Can aid digestion.\n
+Improves hip flexor flexibility: Stretches the front of the hip.\n\n
+•Mental Benefits
+Boosts confidence: Mastering this pose can significantly boost self-esteem.\n
+Improves focus and concentration: Requires mental clarity and determination.\n
+Reduces stress and anxiety: The physical challenge and mental focus can help alleviate stress.</string>
+
+    <string name="feather">•Physical Benefits\n
+Strengthens core, arms, and shoulders: Requires significant upper body strength.\n
+Improves balance and coordination: Challenging to maintain equilibrium.\n
+Increases flexibility: Stretches the shoulders, chest, and spine.\n
+Improves circulation: Inverted position promotes blood flow to the brain.\n
+Aids digestion: Can stimulate digestive system.\n\n
+•Mental Benefits\n
+Boosts confidence: Mastering this pose significantly boosts self-esteem.\n
+Enhances focus and concentration: Requires intense mental focus.\n
+Reduces stress and anxiety: Physical challenge and mental focus can alleviate stress.</string>
+
+    <string name="firefly">•Physical Benefits\n
+Strengthens core, arms, and legs: Requires significant muscular engagement.\n
+Improves balance and coordination: Challenging to maintain equilibrium.\n
+Increases flexibility: Stretches the hips, groin, and shoulders.\n
+Opens the chest: Promotes deeper breathing.\n\n
+•Mental Benefits\n
+Boosts confidence: Mastering this pose significantly boosts self-esteem.\n
+Enhances focus and concentration: Requires mental clarity and determination.</string>
+
+    <string name="peacock">•Physical Benefits\n
+Strengthens core, arms, and wrists: Requires significant upper body strength.\n
+Improves balance and coordination: Challenging to maintain equilibrium.\n
+Aids digestion: Massages abdominal organs, improving digestion.\n
+Detoxifies the body: Stimulates the digestive system, aiding in detoxification.\n
+Corrects posture: Strengthens the back and core, improving posture.\n\n
+•Mental Benefits\n
+Boosts confidence: Mastering this pose significantly boosts self-esteem.\n
+Enhances focus and concentration: Requires intense mental focus.\n
+Reduces stress and anxiety: Physical challenge and mental focus can alleviate stress.</string>
+
+
+</resources>
